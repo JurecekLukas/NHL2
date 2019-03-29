@@ -1,7 +1,7 @@
-# Prezidenti
+# NHL
 ## Projekt v JQuery
-* Prezidenti v Ústavě ČR
-* Portréty prezidentů
-* Sídla prezidentů
+* Kluby v NHL
+* Loga klubů
+* informace o klubech a nejlepší hokejisté
 Projekt IT2
-Vytvořeno v únoru 2019
+Vytvořeno v Březnu 2019
